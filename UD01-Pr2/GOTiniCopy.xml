@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><GOT>
+	<character>
+		<id>148</id>
+		<name>Arya Stark</name>
+		<gender>Female</gender>
+		<culture>Northmen</culture>
+		<born>In 289 AC, at Winterfell</born>
+		<died/>
+		<alive>TRUE</alive>
+		<titles>
+            <title>Princess</title>
+		</titles>
+		<aliases>
+			<alias>Arya Horseface</alias>
+			<alias>Arya Underfoot</alias>
+			<alias>Arry</alias>
+			<alias>Lumpyface</alias>
+			<alias>Lumpyhead</alias>
+			<alias>Stickboy</alias>
+			<alias>Weasel</alias>
+			<alias>Nymeria</alias>
+			<alias>Squan</alias>
+			<alias>Saltb</alias>
+			<alias>Cat of the Canaly</alias>
+			<alias>Bets</alias>
+			<alias>The Blind Girh</alias>
+			<alias>The Ugly Little Girl</alias>
+			<alias>Mercedenl</alias>
+			<alias>Mercye</alias>
+		</aliases>
+        <father>Eddard Stark</father>
+        <mother>Catelyn Tully</mother>
+		<spouse/>
+		<allegiances>House Stark of Winterfell</allegiances>
+		<books>
+			<book>A Game of Thrones (1996)</book>
+			<book>A Clash of Kings (1998)</book>
+			<book>A Storm of Swords (2000)</book>
+			<book>A Feast for Crows (2005)</book>
+			<book>A Dance with Dragons (2011)</book>
+		</books>
+		<tvSeries>
+			<season>Season 1</season>
+			<season>Season 2</season>
+			<season>Season 3</season>
+			<season>Season 4</season>
+			<season>Season 5</season>
+			<season>Season 6</season>
+			<season>Season 7</season>
+			<season>Season 8</season>
+		</tvSeries>
+    <PlayedBy>Alfie Allen</PlayedBy></character>
+	<character>
+		<id>210</id>
+		<name>Brandon  Stark</name>
+		<gender>Male</gender>
+		<culture>Northmen</culture>
+		<born>In 289 AC, at Winterfell</born>
+		<died/>
+		<alive>TRUE</alive>
+		<titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+		</titles>
+		<aliases>
+			<alias>Brandon the Bad</alias>
+		</aliases>
+        <father>Eddard Stark</father>
+        <mother>Catelyn Tully</mother>
+        <spouse/>
+		<allegiances>House Stark of Winterfell</allegiances>
+		<books>
+			<book>A Game of Thrones (1996)</book>
+			<book>A Clash of Kings (1998)</book>
+			<book>A Storm of Swords (2000)</book>
+			<book>A Feast for Crows (2005)</book>
+			<book>A Dance with Dragons (2011)</book>
+		</books>
+		<tvSeries>
+			<season>Season 1</season>
+			<season>Season 2</season>
+			<season>Season 3</season>
+			<season>Season 4</season>
+			<season>Season 5</season>
+			<season>Season 6</season>
+			<season>Season 7</season>
+			<season>Season 8</season>
+		</tvSeries>
+	<PlayedBy>Alfie Allen</PlayedBy></character>
+	<character>
+		<id>210</id>
+		<name>Rickon Stark</name>
+		<gender>Male</gender>
+		<culture>Northmen</culture>
+		<born>In 295 AC, at Winterfell</born>
+        <died>In 305 AC, at Winterfell</died>
+		<alive>FALSE</alive>
+		<titles>
+            <title>Prince of Winterfell</title>
+            <title>Heir to Winterfell</title>
+		</titles>
+		<rialiases/>
+        <father>Eddard Stark</father>
+        <mother>Catelyn Tully</mother>
+        <spouse/>
+		<allegiances>House Stark of Winterfell</allegiances>
+		<books>
+			<book>A Game of Thrones (1996)</book>
+			<book>A Clash of Kings (1998)</book>
+			<book>A Storm of Swords (2000)</book>
+			<book>A Feast for Crows (2005)</book>
+		</books>
+		<tvSeries>
+			<season>Season 1</season>
+			<season>Season 2</season>
+			<season>Season 3</season>
+			<season>Season 4</season>
+		</tvSeries>
+    <PlayedBy>Alfie Allen</PlayedBy></character>
+    <character>
+		<id>1000</id>
+		<name>Robb Stark</name>
+		<gender>Male</gender>
+		<culture>Northmen</culture>
+		<born>In 283 AC, at Riverrun</born>
+        <died>In 299 AC, at the Twins</died>
+		<alive>FALSE</alive>
+		<titles>
+            <title>Lord of Winterfell</title>
+            <title>King in the North</title>
+            <title>King of the Trident</title>
+		</titles>
+        <aliases>
+            <alias>Lord of Winterfell</alias>
+                <alias>The Young Wolf</alias>
+                <alias>Robb the Lord</alias>
+                <alias>The wolfling</alias>
+                <alias>The pup</alias>
+                <alias>Robb the boy</alias>
+                <alias>The Boy Wolf</alias>
+                <alias>The King Who Lost the North</alias>
+        </aliases>
+            <father>Eddard Stark</father>
+            <mother>Catelyn Tully</mother>
+        <spouse>Jeyne Westerling</spouse>
+		<allegiances>House Stark of Winterfell</allegiances>
+		<books>
+			<book>A Game of Thrones (1996)</book>
+			<book>A Clash of Kings (1998)</book>
+			<book>A Storm of Swords (2000)</book>
+		</books>
+		<tvSeries>
+			<season>Season 1</season>
+			<season>Season 2</season>
+			<season>Season 3</season>
+		</tvSeries>
+    <PlayedBy>Alfie Allen</PlayedBy></character>
+    <character>
+		<id>148</id>
+		<name>Sansa Stark</name>
+		<gender>Female</gender>
+		<culture>Northmen</culture>
+		<born>In 286 AC, at Winterfell</born>
+		<died/>
+		<alive>TRUE</alive>
+		<titles>
+            <title>Princess</title>
+		</titles>
+		<aliases>
+			<alias>Little bird</alias>
+			<alias>Alayne Stone</alias>
+			<alias>Jonquil</alias>
+		</aliases>
+        <father>Eddard Stark</father>
+        <mother>Catelyn Tully</mother>
+		<spouse/>
+		<allegiances>
+            <allegiance>House Stark of Winterfell</allegiance>
+            <allegiance>House Baelish of Harrenhal</allegiance>
+        </allegiances>
+		<books>
+			<book>A Game of Thrones (1996)</book>
+			<book>A Clash of Kings (1998)</book>
+			<book>A Storm of Swords (2000)</book>
+			<book>A Feast for Crows (2005)</book>
+			<book>A Dance with Dragons (2011)</book>
+		</books>
+		<tvSeries>
+			<season>Season 1</season>
+			<season>Season 2</season>
+			<season>Season 3</season>
+			<season>Season 4</season>
+			<season>Season 5</season>
+			<season>Season 6</season>
+			<season>Season 7</season>
+			<season>Season 8</season>
+		</tvSeries>
+    <PlayedBy>Alfie Allen</PlayedBy></character>
+<character><id>583</id><name>Jon Snow</name><born>In 283 AC, at Winterfell</born><alive>FALSE</alive><titles><title>Lord Commander of the Night's Watch</title><title>King in the North</title></titles><aliases><alias>Lord Snow</alias><alias>Ned Stark's Bastard</alias><alias>The Snow of Winterfell</alias><alias>The Crow-Come-Over</alias><alias>The 998th Lord Commander of the Night's Watch</alias><alias>The Bastard of Winterfell</alias><alias>The Black Bastard of the Wall</alias><alias>Lord Crow</alias></aliases><Actor>Kit Harrington</Actor></character></GOT>
